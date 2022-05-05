@@ -1,0 +1,19 @@
+.main-div{
+     display: grid;
+     justify-content: center;
+     background-color: rgb(8, 19, 15);
+     padding: 10px;
+     color:cadetblue
+}
+h3{
+    padding-left:180px;
+}
+button{
+    margin:10px;
+}
+.btn-div{
+    margin-left: 150px;
+}
+span{
+    color:rgb(143, 201, 36);
+}
